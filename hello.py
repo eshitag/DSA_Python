@@ -4,6 +4,3 @@ x = array[2]
 for i in array:
   if i < x:
   print('hello, world!) 
-
-
-  
