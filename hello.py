@@ -3,7 +3,7 @@ x = array[2]
 
 for i in array:
   if i < x:
-    x = i
+  print('hello, world!) 
 
-print('Lowest value: ',x)
+
   
